@@ -1,6 +1,13 @@
 ![Image of Neon-Lights](https://github.com/lino-m/lino-m/blob/master/images/header.jpg)
 
-### Hi there 👋
+## Hi there 👋
+
+My name is Lino. Fresh out of a coding boot camp and now a Teaching Assistant for Le Wagon, I started 2020 by changing career paths and learn how to code.
+You can also find me on --- to learn more about my professional background.
+
+
+### 📫 How to reach me:
+lino@q-b.de
 
 <!--
 **lino-m/lino-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
