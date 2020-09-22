@@ -9,6 +9,8 @@ You can also find and connect with me on <a href="https://www.linkedin.com/in/li
 
 ---
 
+![Lino's github stats](https://github-readme-stats.vercel.app/api?username=lino-m&show_icons=true&theme=vue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lino-m&layout=compact)](https://github.com/lino-m/github-readme-stats)
 
 
