@@ -7,6 +7,8 @@ You can also find and connect with me on <a href="https://www.linkedin.com/in/li
 
 #### 📫 : Otherwise, you can always reach me right me here: lino@q-b.de
 
+---
+
 <!--
 **lino-m/lino-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
