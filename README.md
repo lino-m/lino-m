@@ -12,10 +12,10 @@ You can also find and connect with me on <a href="https://www.linkedin.com/in/li
 ## I know you love stats
 
 <a href="https://github.com/lino-m/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lino-m&show_icons=true&theme=vue" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=lino-m&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/lino-m/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lino-m&layout=compact&show_icons=true&theme=vue" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lino-m&layout=compact&show_icons=true&theme=vue" />
 </a>
 
 
