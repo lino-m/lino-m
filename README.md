@@ -4,7 +4,7 @@
 
 
 ### Some Highlights :flashlight:
-My name is Lino. Fresh out of a coding boot camp and now a Teaching Assistant for Le Wagon, I started 2020 by changing career paths and learn how to code.
+My name is Lino. I started coding back in 2020 by changing career paths and learning how to code with Le Wagon. And since then, I am hacking happily away.
 You can also find and connect with me on <a href="https://www.linkedin.com/in/lino-maurer/"><img height="18" src="https://github.com/lino-m/lino-m/blob/master/images/linkedin-logo.png?raw=true"></a> to learn more about my professional background.
 
 <h4 align=center> :mailbox: Otherwise, you can always reach me right me here: lino@q-b.de </h4>
